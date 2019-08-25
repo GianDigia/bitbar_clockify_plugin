@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "clockify-bitbar-script",
+  "description": "Display your currently worked hours in macOS menu bar",
+  "dependencies": {
+    "node-fetch": "2.6.0",
+    "bitbar": "1.0.0"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GianDigia/bitbar_clockify_plugin.git"
+  },
+  "keywords": [
+    "bitbar",
+    "macos",
+    "clockify"
+  ],
+  "author": "GianDigia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GianDigia/bitbar_clockify_plugin/issues"
+  },
+  "homepage": "https://github.com/GianDigia/bitbar_clockify_plugin#readme"
+}
