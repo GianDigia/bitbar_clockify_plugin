@@ -3,7 +3,7 @@
   "name": "clockify-bitbar-script",
   "description": "Display your currently worked hours in macOS menu bar",
   "dependencies": {
-    "node-fetch": "2.6.0",
+    "node-fetch": "2.6.1",
     "bitbar": "1.0.0"
   },
   "main": "index.js",
